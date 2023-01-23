@@ -1,0 +1,52 @@
+//Deobfuscated with https://github.com/SimplyProgrammer/Minecraft-Deobfuscator3000 using mappings "C:\Users\32302\Desktop\新建文件夹 (2)"!
+
+//Decompiled by Procyon!
+
+package xyz.Melody.Utils.math;
+
+public class Vec4f
+{
+    public float x;
+    public float y;
+    public float w;
+    public float h;
+    
+    public float getX() {
+        return this.x;
+    }
+    
+    public float getY() {
+        return this.y;
+    }
+    
+    public float getW() {
+        return this.w;
+    }
+    
+    public float getH() {
+        return this.h;
+    }
+    
+    public void setX(final float x) {
+        this.x = x;
+    }
+    
+    public void setY(final float y) {
+        this.y = y;
+    }
+    
+    public void setW(final float w) {
+        this.w = w;
+    }
+    
+    public void setH(final float h) {
+        this.h = h;
+    }
+    
+    public Vec4f(final float x, final float y, final float w, final float h) {
+        this.x = x;
+        this.y = y;
+        this.w = w;
+        this.h = h;
+    }
+}

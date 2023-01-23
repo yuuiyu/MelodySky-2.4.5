@@ -1,0 +1,16 @@
+//Deobfuscated with https://github.com/SimplyProgrammer/Minecraft-Deobfuscator3000 using mappings "C:\Users\32302\Desktop\新建文件夹 (2)"!
+
+//Decompiled by Procyon!
+
+package org.eclipse.swt.events;
+
+import org.eclipse.swt.widgets.*;
+
+public final class FocusEvent extends TypedEvent
+{
+    static final long serialVersionUID = 3258134643684227381L;
+    
+    public FocusEvent(final Event e) {
+        super(e);
+    }
+}
