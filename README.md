@@ -16,6 +16,6 @@
 - Minecraft forge 1.8.9
 - Java version 8
 
-## author
+## Author
 
 - Cracked by WXG
