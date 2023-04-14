@@ -8,7 +8,7 @@
 
 
 
-> MelodySky-2.4.5.cracked src without rat
+> MelodySky-2.4.5.cracked src without rat!
 
 
 ## Prerequisites
